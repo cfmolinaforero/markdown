@@ -4,4 +4,4 @@ This is a React project with some useful stuff with the `navigation.geolocation`
 
 ## Directives
 
-[geolocation](/docs/geoLocation.md)
+[geolocation](/opensource-example/docs/geoLocation.md)
